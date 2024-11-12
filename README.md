@@ -70,7 +70,7 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [haris97duisburg@gmail.com](mailto:haris97duisburg@gmail.com)
+Name - [haris97duisburg@gmail.com](mailto:haris97duisburg@gmail.com)
 
 Project Link: [https://github.com/Haris97Abbasi/.NET_ToDo_API-React_Dark_UI](https://github.com/Haris97Abbasi/.NET_ToDo_API-React_Dark_UI)
 
